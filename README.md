@@ -18,5 +18,4 @@
 ![Framework](images/模块三任务管理.png)
 ![Framework](images/模块四每日打卡与统计.png)
 ![Framework](images/模块五专注数据统计.png)
-![Framework](images/模块一用户登录.png)
 ![Framework](images/夜间模式.png)
